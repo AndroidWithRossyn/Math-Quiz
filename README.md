@@ -13,7 +13,7 @@ It is a game to test your speed in solving easy, medium, and math quizzes during
 
 > Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 
-# Voice Translator All Languages (JAVA)
+# (JAVA)
 
 <p align="center">
     <a href="https://www.paypal.com/paypalme/banrossyn">
